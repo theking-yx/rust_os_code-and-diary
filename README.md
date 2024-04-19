@@ -1,0 +1,2 @@
+# rust_os_code_or_diary
+2024_summer_rust_rCore
